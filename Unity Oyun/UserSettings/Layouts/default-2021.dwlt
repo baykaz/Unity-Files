@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 99
+  controlID: 122
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 85
+  controlID: 123
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 86
+  controlID: 124
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -318,22 +318,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/LowlyPoly/Free Stylized Textures/Materials
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/LowlyPoly/Free Stylized Textures/Materials
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Berat\Documents\GitHub\Unity-Files\Unity Oyun
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a48d0000
-    m_LastClickedID: 36260
-    m_ExpandedIDs: 000000000867000048670000a08d000000ca9a3b
+    m_SelectedIDs: 06650000
+    m_LastClickedID: 25862
+    m_ExpandedIDs: 00000000ea640000ee640000f06400000665000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -490,10 +490,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 141}
-      m_SelectedIDs: b2e4ffff
-      m_LastClickedID: -6990
-      m_ExpandedIDs: e8e1ffff4ee4ffffaae4ffff4ae5ffff44eaffffecefffff38f0ffffa0f0ffffe0f0ffffcaf2ffff
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 04660000
+      m_LastClickedID: 0
+      m_ExpandedIDs: fed6ffff9adcffff9ae1ffffe2e1ffff88e8ffff60e9ffffd4e9ffffbeeeffff54f4ffff34fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -776,9 +776,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -26.06261, y: 34.3473, z: -42.704384}
+    m_Target: {x: 10.829663, y: -3.0941772, z: 7.6215754}
     speed: 2
-    m_Value: {x: -26.06261, y: 34.3473, z: -42.704384}
+    m_Value: {x: 10.829663, y: -3.0941772, z: 7.6215754}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -825,13 +825,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.00027731303, y: -0.9993843, z: 0.03480214, w: 0.0077860067}
+    m_Target: {x: 0.41268116, y: 0.19950947, z: -0.09314609, w: 0.88389516}
     speed: 2
-    m_Value: {x: 0.00032950917, y: -0.9993511, z: 0.034800977, w: 0.009284885}
+    m_Value: {x: 0.41399485, y: 0.19936389, z: -0.09344265, w: 0.8832502}
   m_Size:
     m_Target: 10
     speed: 2
-    m_Value: 61.18588
+    m_Value: 10
   m_Ortho:
     m_Target: 0
     speed: 2
